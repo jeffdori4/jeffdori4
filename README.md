@@ -1,8 +1,8 @@
 ### Olar! Eu sou Jefferson Doria Santos (Jeff)
 <div>
   <a href="https://jefdoria.dev/links.html">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefdoria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefdoria&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefdoria&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefdoria&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -15,6 +15,6 @@
  ##
   
  <div> 
-  <a href = "mailto:ola@jefdoria.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jdoriadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://jefdoria.dev/links.html" title="Mais informações"><img src="https://img.shields.io/badge/me-jefdoria.dev%2Flinks.html-green" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jdoriadev/" title="Linkedin com trabalhos, projetos e carreira" target="_blank"><img src="https://img.shields.io/badge/in-jdoriadev-blue" target="_blank"></a>  
   </div>
