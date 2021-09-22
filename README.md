@@ -1,6 +1,6 @@
 ### Olar! Eu sou Jefferson Doria Santos (Jeff)
 <div>
-  <a href="https://jefdoria.dev/links.html">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefdoria&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefdoria&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
