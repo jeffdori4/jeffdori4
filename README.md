@@ -2,7 +2,7 @@
 
 My name is Jefferson Doria Santos (Jeff) 🧑🇧🇷
 
-I'm a Web Developer and and study Front-End since 2020 💻
+I'm a Web Developer and study Front-End since 2020 💻
 
 Always open to new challenges and ready to face changes.
 
