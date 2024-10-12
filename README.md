@@ -1,4 +1,4 @@
-# Olar | Hey 👋
+# Hey 👋
 
 My name is Jefferson Doria Santos (Jeff) 🧑🇧🇷
 
