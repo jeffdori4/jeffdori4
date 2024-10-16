@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is Jefferson Doria Santos (Jeff) 🧑🇧🇷
+My name is Jefferson Doria (Jeff) 🧑🇧🇷
 
 I'm a Web Developer and study Front-End since 2020 💻
 
@@ -22,6 +22,6 @@ Always open to new challenges and ready to face changes.
  ##
   Connect with me 👇🏼  
  <div> 
-  <a href="https://jefdoria.dev/links.html" title="Mais informações"><img src="https://img.shields.io/badge/me-jefdoria.dev%2Flinks.html-green" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jdoriadev/" title="Linkedin com trabalhos, projetos e carreira" target="_blank"><img src="https://img.shields.io/badge/in-jdoriadev-blue" target="_blank"></a>  
+  <a href="https://jeffdoria.dev/links.html" title="Mais informações"><img src="https://img.shields.io/badge/me-jeffdoria.dev%2Flinks.html-green" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ojeffdoria/" title="Linkedin com trabalhos, projetos e carreira" target="_blank"><img src="https://img.shields.io/badge/in-ojeffdoria-blue" target="_blank"></a>  
   </div>
